@@ -12,6 +12,10 @@ Usually, web applications have several common features like, breadcrumbs, ldap
 authentication, visual widgets, etc. Cmsutils project collects all these common
 features.
 
+This project was abandoned and has been forked by intelligenia.
+
+Last master branch is updated to Django 1.8 version while [0.6.6 version](https://pypi.python.org/pypi/cmsutils/0.6.6) only works until 1.5.
+
 Installation
 ============
 
