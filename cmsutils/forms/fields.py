@@ -3,7 +3,7 @@ import re
 
 from django import forms
 from django.forms import fields
-from django.utils import simplejson as json
+import json
 from django.utils.translation import ugettext
 from django.utils.translation import ugettext_lazy as _
 

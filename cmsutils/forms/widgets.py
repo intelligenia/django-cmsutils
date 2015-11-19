@@ -15,8 +15,8 @@ from django.forms.util import flatatt
 from django.utils.encoding import smart_unicode
 from django.utils.html import escape
 from django.utils.safestring import mark_safe
-from django.utils import simplejson as json
-from django.utils.simplejson import JSONEncoder
+import json
+from json import JSONEncoder
 from django.utils.text import capfirst
 from django.utils.translation import ugettext as _
 

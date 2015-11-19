@@ -15,7 +15,7 @@ from django.core.files import File
 from django.core.files.images import ImageFile
 from django.core.serializers.json import DjangoJSONEncoder
 from django.template import defaultfilters
-from django.utils import simplejson as json
+import json
 from django.utils.functional import curry
 from django.utils.encoding import smart_unicode
 
