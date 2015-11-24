@@ -11,7 +11,7 @@ from django.contrib.admin.widgets import RelatedFieldWidgetWrapper
 from django.db import models
 from django.db.models.manager import Manager
 from django.forms import widgets
-from django.forms.util import flatatt
+from django.forms.utils import flatatt
 from django.utils.encoding import smart_unicode
 from django.utils.html import escape
 from django.utils.safestring import mark_safe
