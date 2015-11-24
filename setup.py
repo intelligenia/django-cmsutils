@@ -36,7 +36,7 @@ setup(
     author="Yaco Sistemas S.L.",
     author_email="msaelices@yaco.es",
     description="Cmsutils for Django is a bundle of models and templates for Django projects in need of some Content Management System features.",
-    long_description=(read('README') + '\n\n' + read('CHANGES')),
+    long_description=(read('README.md') + '\n\n' + read('CHANGES')),
     classifiers=[
         'Development Status :: 4 - Beta',
         'Framework :: Django',
